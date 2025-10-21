@@ -9,3 +9,4 @@ Completed the Google.com clone. That was a good recap about Flexbox model
 [my-googlecom-clone](https://68f6d45c7f6647901bb55d71--exquisite-souffle-a2df40.netlify.app/)
 
 ### R1D2
+Completed the Business Card clone, remains to customize it with my own theme. That was a good recap about CSS inheritance and web safe fonts
