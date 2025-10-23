@@ -10,3 +10,12 @@ Completed the Google.com clone. That was a good recap about Flexbox model
 
 ### R1D2
 Completed the Business Card clone, remains to customize it with my own theme. That was a good recap about CSS inheritance and web safe fonts
+
+### R1D3
+Completed the Exploration Page by applying key web development techniques, including:
+- Implementing background images for visual appeal
+- Using WebP format for optimized image performance
+- Integrating Google Fonts for enhanced typography
+- Structuring content with span and div tags
+- Styling elements with ID and class selectors
+- Adding depth with text-shadow effect
