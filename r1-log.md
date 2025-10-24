@@ -19,3 +19,11 @@ Completed the Exploration Page by applying key web development techniques, inclu
 - Structuring content with span and div tags
 - Styling elements with ID and class selectors
 - Adding depth with text-shadow effect
+
+### R1D3
+I am grateful  to have completed the Birthday Gift Page by applying key web development techniques, including:
+- Implementing align-items to control vertical alignment and space of elements within a flex container.
+- Using flex-direction to switch between horizontal and vertical layouts.
+- Leveraging pseudo-class :hover to add interactive effects when users hover over elements.
+- Styling element with backgroud gradients to create smooth vertical color transitions.
+- Adding grouping selectors to apply shared styles and keep the CSS code concise.
