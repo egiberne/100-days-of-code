@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Emeric Giberne]
+# #100DaysOfCode Log - Round 1 - [Emerick Giberne]
 
 The log of my #100DaysOfCode challenge. Started on [October 20, Monday, 2025].
 
