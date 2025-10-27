@@ -29,3 +29,12 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+
+### Day 0: October 27, 2025  
+#### Hometown Homepage
+
+**Today's Progress:** Completed the initial version of the project.
+
+**Thoughts:** I struggled with CSS margin, padding, and Flexbox layout—but I’m starting to understand them better and feel more confident.
+
+**Link to Work:** [Hometown Homepage](https://2025-my-hometown-homepage.netlify.app/)
