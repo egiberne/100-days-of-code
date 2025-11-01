@@ -30,7 +30,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 0: October 27, 2025  
+### Day 1 of October 27, 2025  
 #### Hometown Homepage
 
 **Today's Progress:** Completed the initial version of the project.
@@ -38,3 +38,22 @@
 **Thoughts:** I struggled with CSS margin, padding, and Flexbox layout—but I’m starting to understand them better and feel more confident.
 
 **Link to Work:** [Hometown Homepage](https://2025-my-hometown-homepage.netlify.app/)
+
+
+### Day 2 of #100DaysOfCode, 2025
+Started counter app project. I have a hard time to understand the difference between `.innerText` and `.textContent` , but feeling more confident with the **DOM** with **javascript**.
+
+### Day 3 of #100DaysOfCode
+Wrapped up the Counter App ✅
+Kicked off a new project using #HTML, #CSS & #JavaScript to explore the DOM.
+Happy Coding
+
+### Day 4 of #100DaysOfCode
+Picking up where I left off in a new project focused on solving **JavaScript** challenges. Still exploring the **DOM** and diving deeper into other JavaScript features.
+Happy Coding & KeepBuilding !
+
+### Day 5 of #100DaysOfCode
+Kicking off a **Scoreboard project**, built with #HTML, #CSS, and #JavaScript. Took a sneak peek at LeetCode 30 Days of JS #Challenges.
+I confused with all the different options to create JavaScript **function**.
+Happy Coding & Keep Building
+
