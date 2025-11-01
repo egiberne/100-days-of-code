@@ -30,7 +30,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 1 of October 27, 2025  
+### Day 1 2 of #100DaysOfCode, *2025 October 27*  
 #### Hometown Homepage
 
 **Today's Progress:** Completed the initial version of the project.
@@ -40,7 +40,7 @@
 **Link to Work:** [Hometown Homepage](https://2025-my-hometown-homepage.netlify.app/)
 
 
-### Day 2 of #100DaysOfCode, 2025
+### Day 2 of #100DaysOfCode
 Started counter app project. I have a hard time to understand the difference between `.innerText` and `.textContent` , but feeling more confident with the **DOM** with **javascript**.
 
 ### Day 3 of #100DaysOfCode
