@@ -57,3 +57,10 @@ Kicking off a **Scoreboard project**, built with #HTML, #CSS, and #JavaScript. T
 I confused with all the different options to create JavaScript **function**.
 Happy Coding & Keep Building
 
+Day 6 of #100DaysOfCode in my #FrontendDev journey
+Completed the Basketball Scoreboard app
+Built with **HTML**, **CSS** & **JavaScript**
+ https://2025-scoreboard-app.netlify.app
+Still figuring out **margin** and **padding**, but this was a great step into JS and the **DOM**.
+Happy Coding &  Keep Building!
+
