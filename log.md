@@ -64,3 +64,19 @@ Built with **HTML**, **CSS** & **JavaScript**
 Still figuring out **margin** and **padding**, but this was a great step into JS and the **DOM**.
 Happy Coding &  Keep Building!
 
+Day 7 of #100DaysOfCode
+Kicked off a Blackjack game Frontend project. I’m diving into the rules and learning how to build the core game logic. Next step, structuring the HTML and styling with CSS. Where are you in your journey? Happy #coding, #keepbuilding!
+
+Day 8 of #100DaysOfCode 
+Still working on the Blackjack game project!
+Right now, tuning the game logic to handle 3 scenarios: - player’s hand is less than 21
+- hand equals 21 - hand goes over 21
+After I will proceed with the UI.Where are you in your coding journey? 
+Happy #coding
+
+Day 9 of #100DaysOfCode
+Still building my Blackjack game!
+Working through the UI, my favorite part. 
+Built with pure HTML & CSS , simple and beginner-friendly.Gameplay’s almost done. Where are you in your coding journey?
+#Keepbuilding
+
