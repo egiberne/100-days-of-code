@@ -80,3 +80,12 @@ Working through the UI, my favorite part.
 Built with pure HTML & CSS , simple and beginner-friendly.Gameplay’s almost done. Where are you in your coding journey?
 #Keepbuilding
 
+#100DaysOfCode , Day 10 
+Worked on the Blackjack game project. Started to build the UI and setting up button controls. I think it will take me between 2 to 3 weeks to finish.
+Where are you in your #journey ?
+Happy #Coding to #KeepBuilding
+
+#100DaysOfCode, Day 12  
+Today I continued improving the Blackjack project to make it more robust by including an array to store the drawn cards.  
+Happy #Coding to #KeepBuilding!
+
