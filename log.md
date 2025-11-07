@@ -85,7 +85,7 @@ Worked on the Blackjack game project. Started to build the UI and setting up but
 Where are you in your #journey ?
 Happy #Coding to #KeepBuilding
 
-#100DaysOfCode, Day 12  
+#100DaysOfCode, Day 11  
 Today I continued improving the Blackjack project to make it more robust by including an array to store the drawn cards.  
 Happy #Coding to #KeepBuilding!
 
